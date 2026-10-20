@@ -1,14 +1,14 @@
-# 🃏 The Jester (მასხარა / ხუმარა)
+# 🧠 The Sage (ბრძენი)
 
-- **მთავარი სურვილი:** ტკბობა აწმყოთი და მხიარულება
-- **მიზანი:** სამყაროს გაღიმება, მოწყენილობის გაფანტვა
-- **შიში:** მოწყენილობა, სერიოზულობით დამძიმება
-- **ბრენდის ტონალობა:** იუმორით სავსე, თამამი, ოპტიმისტური, მხიარული
-- **ცნობილი ბრენდები:** M&M's, Old Spice, Skittles, Fanta
+- **მთავარი სურვილი:** ჭეშმარიტების აღმოჩენა და სამყაროს გაგება
+- **მიზანი:** ცოდნის გაზიარება, ანალიზი, ექსპერტულობა
+- **შიში:** მოტყუება, უმეცრება, არასწორი ინფორმაცია
+- **ბრენდის ტონალობა:** აკადემიური, გაწონასწორებული, სანდო, ობიექტური
+- **ცნობილი ბრენდები:** Google, BBC, TED, McKinsey, MIT
 
 ## 🌈 ვიზუალური იდენტობა
-- **ფერები:** მკვეთრი პირველადი ფერები (ყვითელი, ნარინჯისფერი, მკვეთრი მწვანე)
-- **ფორმები:** დინამიკური პოპ-არტის ელემენტები, თამაშისებური ასოები
+- **ფერები:** ღრმა ლურჯი, ელეგანტური ნაცრისფერი, სუფთა თეთრი
+- **ფორმები:** სტრუქტურირებული ბადეები (Grid), მინიმალისტური ტიპოგრაფია
 
 ## 🤖 AI Prompting (Midjourney / Kling)
-> **Prompt:** Vibrant playful pop-art commercial visual, explosive bright yellow and orange color clash, energetic composition, fun and humorous aesthetic, studio lighting, 8k --ar 16:9
+> **Prompt:** Clean intellectual data visualization aesthetic, soft balanced lighting, minimalist blue and platinum tones, modern editorial layout, premium corporate visual, 8k --ar 16:9
